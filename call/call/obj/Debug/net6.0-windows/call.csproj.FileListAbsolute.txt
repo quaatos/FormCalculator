@@ -1,0 +1,17 @@
+C:\Users\sylva\source\repos\call\call\bin\Debug\net6.0-windows\call.exe
+C:\Users\sylva\source\repos\call\call\bin\Debug\net6.0-windows\call.deps.json
+C:\Users\sylva\source\repos\call\call\bin\Debug\net6.0-windows\call.runtimeconfig.json
+C:\Users\sylva\source\repos\call\call\bin\Debug\net6.0-windows\call.dll
+C:\Users\sylva\source\repos\call\call\bin\Debug\net6.0-windows\call.pdb
+C:\Users\sylva\source\repos\call\call\obj\Debug\net6.0-windows\call.csproj.AssemblyReference.cache
+C:\Users\sylva\source\repos\call\call\obj\Debug\net6.0-windows\call.Form1.resources
+C:\Users\sylva\source\repos\call\call\obj\Debug\net6.0-windows\call.csproj.GenerateResource.cache
+C:\Users\sylva\source\repos\call\call\obj\Debug\net6.0-windows\call.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sylva\source\repos\call\call\obj\Debug\net6.0-windows\call.AssemblyInfoInputs.cache
+C:\Users\sylva\source\repos\call\call\obj\Debug\net6.0-windows\call.AssemblyInfo.cs
+C:\Users\sylva\source\repos\call\call\obj\Debug\net6.0-windows\call.csproj.CoreCompileInputs.cache
+C:\Users\sylva\source\repos\call\call\obj\Debug\net6.0-windows\call.dll
+C:\Users\sylva\source\repos\call\call\obj\Debug\net6.0-windows\refint\call.dll
+C:\Users\sylva\source\repos\call\call\obj\Debug\net6.0-windows\call.pdb
+C:\Users\sylva\source\repos\call\call\obj\Debug\net6.0-windows\call.genruntimeconfig.cache
+C:\Users\sylva\source\repos\call\call\obj\Debug\net6.0-windows\ref\call.dll
